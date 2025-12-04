@@ -1,0 +1,37 @@
+{
+  "installMethod": "unknown",
+  "autoUpdates": true,
+  "cachedStatsigGates": {
+    "tengu_log_1p_events": false,
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_tool_pear": false,
+    "tengu_web_tasks": true
+  },
+  "userID": "8b9366acfb31a415673a8d6baad1aacda99c81ce8a26f9510bda436b504936ef",
+  "firstStartTime": "2025-12-04T02:40:35.634Z",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "projects": {
+    "/app": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [
+        "I don't have any file modification data to analyze. The lists of files modified by both the user and other users appear to be empty.",
+        "",
+        "To provide you with five frequently modified core application logic filenames, I would need:",
+        "1. A list of files with their modification counts for the current user",
+        "2. A list of files with their modification counts for other users",
+        "",
+        "Could you please provide the git history data with actual filenames and modification counts?"
+      ],
+      "exampleFilesGeneratedAt": 1764816039049
+    }
+  }
+}
